@@ -1,0 +1,1 @@
+Worker: node ./z3/main.js
