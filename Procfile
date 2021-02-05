@@ -1,1 +1,1 @@
-Worker: ./z3/main.js
+Worker: ./Bot/main.js
