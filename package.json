@@ -1,0 +1,23 @@
+{
+  "name": "z3",
+  "version": "1.1.2",
+  "description": "na jekata bota",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "ne znam"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ne znam"
+  },
+  "keywords": [
+    "pishmiqjkata"
+  ],
+  "author": "Marto Picha",
+  "license": "ISC"
+}
